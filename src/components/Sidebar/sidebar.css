@@ -1,0 +1,22 @@
+.navbar-left .brand {
+  padding-right: 4rem;
+  color: #FF2D20;
+  font-size: 46px;
+  font-weight: 600;
+}
+.navbar-left ul {
+  margin-top: 4rem;
+  padding-right: 4rem;
+  padding-left: 0;
+}
+.navbar-left ul li {
+  padding: 0.65rem 0;
+}
+.navbar-left ul li a {
+  font-size: 13px;
+  color: white;
+  transition: 500ms;
+}
+.navbar-left ul li a:hover {
+  padding-left: 10px;
+}/*# sourceMappingURL=sidebar.css.map */

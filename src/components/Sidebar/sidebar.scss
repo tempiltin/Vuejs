@@ -1,0 +1,41 @@
+ .navbar-left{
+   
+    .brand{
+      padding-right: 4rem;
+   
+      color: #FF2D20;
+      font-size: 46px;
+      font-weight: 600;
+    }
+    ul{
+      margin-top: 4rem;
+      padding-right: 4rem;
+      padding-left: 0;
+      li{
+        padding: 0.65rem 0;
+        a{
+          font-size: 13px;
+          color: white;
+          transition: 500ms;
+          &:hover{padding-left: 10px;}
+        }
+      }
+    }
+  }
+
+
+  @media (max-width:1399px) {
+  
+  }
+  @media (max-width:1199px) {
+    
+  }
+  @media (max-width:991px) {
+    
+  }
+  @media (max-width:767px) {
+    
+  }
+  @media (max-width:575px) {
+    
+  }
